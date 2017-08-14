@@ -19,4 +19,11 @@ body {
 .img-medium {
     height: 200px;
 }
+ .container {
+             max-width: 1000px;
+    margin: 0 auto;
+    color: orange;
+    font-family: snell roundhand;
+    padding-top: 60px;
+          }
 
